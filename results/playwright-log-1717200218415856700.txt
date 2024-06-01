@@ -1,0 +1,741 @@
+{"level":30,"time":"2024-06-01T00:03:39.016Z","pid":26120,"hostname":"DEV1","msg":"Listening on 56141"}
+(node:26120) DeprecationWarning: Calling start() is no longer necessary. It can be safely omitted.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+{"level":30,"time":"2024-06-01T00:03:39.104Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-06-01T00:03:39.105Z","pid":26120,"hostname":"DEV1","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-06-01T00:03:39.110Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-06-01T00:03:39.110Z","pid":26120,"hostname":"DEV1","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-06-01T00:03:39.115Z","pid":26120,"hostname":"DEV1","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2024-06-01T00:03:39.309Z","pid":26120,"hostname":"DEV1","msg":"Adding browser to stack: chromium, version: 124.0.6367.29"}
+{"level":30,"time":"2024-06-01T00:03:39.311Z","pid":26120,"hostname":"DEV1","msg":"End of node method newBrowser"}
+{"level":30,"time":"2024-06-01T00:03:39.311Z","pid":26120,"hostname":"DEV1","msg":"Adding 0 contexts to browser"}
+{"level":30,"time":"2024-06-01T00:03:39.322Z","pid":26120,"hostname":"DEV1","msg":"Start of node method newPage"}
+{"level":30,"time":"2024-06-01T00:03:39.323Z","pid":26120,"hostname":"DEV1","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2024-06-01T00:03:39.343Z","pid":26120,"hostname":"DEV1","msg":"Changed active context"}
+{"level":30,"time":"2024-06-01T00:03:39.550Z","pid":26120,"hostname":"DEV1","msg":"Video path: undefined"}
+{"level":30,"time":"2024-06-01T00:03:39.550Z","pid":26120,"hostname":"DEV1","msg":"Changed active page"}
+{"level":30,"time":"2024-06-01T00:03:40.291Z","pid":26120,"hostname":"DEV1","msg":"End of node method newPage"}
+{"level":30,"time":"2024-06-01T00:03:45.806Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:03:45.806Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[1]/i in page."}
+{"level":30,"time":"2024-06-01T00:03:45.896Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:03:45.902Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:03:45.902Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:03:47.623Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:03:47.623Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/div[2]/span[19] in page."}
+{"level":30,"time":"2024-06-01T00:03:47.900Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:03:47.906Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:03:47.906Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:03:49.446Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:03:49.447Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[2] in page."}
+{"level":30,"time":"2024-06-01T00:03:49.517Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:03:49.522Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:03:49.522Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:03:51.051Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:03:51.051Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/div[2]/span[19] in page."}
+{"level":30,"time":"2024-06-01T00:03:51.471Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:03:51.478Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:03:51.478Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:03:53.008Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:03:53.009Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[3]/i[1] in page."}
+{"level":30,"time":"2024-06-01T00:03:53.117Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:03:53.126Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:03:53.127Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:03:54.664Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:03:54.664Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[1]/li[2] in page."}
+{"level":30,"time":"2024-06-01T00:03:54.751Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:03:54.758Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:03:54.759Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:03:56.307Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:03:56.307Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[3]/i[1] in page."}
+{"level":30,"time":"2024-06-01T00:03:56.387Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:03:56.397Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:03:56.397Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:03:57.942Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:03:57.942Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[1]/li[3] in page."}
+{"level":30,"time":"2024-06-01T00:03:58.006Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:03:58.015Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:03:58.015Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:03:59.563Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:03:59.563Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[3]/i[1] in page."}
+{"level":30,"time":"2024-06-01T00:03:59.635Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:03:59.646Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:03:59.646Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:01.195Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:04:01.195Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[1]/li[4] in page."}
+{"level":30,"time":"2024-06-01T00:04:01.288Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:04:01.296Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:01.296Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:02.827Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:04:02.827Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[3]/i[1] in page."}
+{"level":30,"time":"2024-06-01T00:04:02.889Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:04:02.898Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:02.898Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:04.447Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:04:04.447Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[1]/li[5] in page."}
+{"level":30,"time":"2024-06-01T00:04:04.518Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:04:04.525Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:04.526Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:06.057Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:04:06.057Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[3]/i[1] in page."}
+{"level":30,"time":"2024-06-01T00:04:06.121Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:04:06.126Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:06.127Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:07.664Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:04:07.665Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[1]/li[6] in page."}
+{"level":30,"time":"2024-06-01T00:04:07.768Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:04:07.776Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:07.777Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:09.349Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:04:09.349Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[3]/i[1] in page."}
+{"level":30,"time":"2024-06-01T00:04:09.422Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:04:09.433Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:09.434Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:10.981Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:04:10.982Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[1]/li[7] in page."}
+{"level":30,"time":"2024-06-01T00:04:11.066Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:04:11.076Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:11.077Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:12.620Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:04:12.621Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[3]/i[1] in page."}
+{"level":30,"time":"2024-06-01T00:04:12.727Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:04:12.739Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:12.740Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:14.279Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:04:14.280Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[1]/li[8] in page."}
+{"level":30,"time":"2024-06-01T00:04:14.332Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:04:14.339Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:14.340Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:15.883Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:04:15.884Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[3]/i[1] in page."}
+{"level":30,"time":"2024-06-01T00:04:15.977Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:04:15.985Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:15.986Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:17.519Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:04:17.519Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[1]/li[9] in page."}
+{"level":30,"time":"2024-06-01T00:04:17.587Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:04:17.593Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:17.594Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:19.124Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:04:19.124Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[3]/i[1] in page."}
+{"level":30,"time":"2024-06-01T00:04:19.221Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:04:19.230Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:19.230Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:20.763Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:04:20.763Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[1]/li[10] in page."}
+{"level":30,"time":"2024-06-01T00:04:20.869Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:04:20.877Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:20.877Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:22.425Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:04:22.426Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[3]/i[1] in page."}
+{"level":30,"time":"2024-06-01T00:04:22.491Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:04:22.500Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:22.501Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:24.042Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:04:24.042Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[1]/li[11] in page."}
+{"level":30,"time":"2024-06-01T00:04:24.103Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:04:24.114Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:24.114Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:25.672Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:04:25.673Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[3]/i[1] in page."}
+{"level":30,"time":"2024-06-01T00:04:25.785Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:04:25.795Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:25.796Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:27.336Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:04:27.336Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[4]/i[1] in page."}
+{"level":30,"time":"2024-06-01T00:04:27.410Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:04:27.417Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:27.417Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:28.961Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:04:28.961Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[1]/li[2] in page."}
+{"level":30,"time":"2024-06-01T00:04:29.082Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:04:29.090Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:29.090Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:30.624Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:04:30.624Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[4]/i[1] in page."}
+{"level":30,"time":"2024-06-01T00:04:30.714Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:04:30.734Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:30.734Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:32.294Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:04:32.294Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[1]/li[3] in page."}
+{"level":30,"time":"2024-06-01T00:04:32.402Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:04:32.408Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:32.408Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:33.952Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:04:33.952Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[4]/i[1] in page."}
+{"level":30,"time":"2024-06-01T00:04:34.053Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:04:34.062Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:34.062Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:35.612Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:04:35.612Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[1]/li[4] in page."}
+{"level":30,"time":"2024-06-01T00:04:35.697Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:04:35.706Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:35.706Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:37.247Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:04:37.247Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[4]/i[1] in page."}
+{"level":30,"time":"2024-06-01T00:04:37.437Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:04:37.450Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:37.451Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:38.983Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:04:38.983Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[1]/li[5] in page."}
+{"level":30,"time":"2024-06-01T00:04:39.060Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:04:39.069Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:39.069Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:40.609Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:04:40.609Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[4]/i[1] in page."}
+{"level":30,"time":"2024-06-01T00:04:40.660Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:04:40.664Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:40.664Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:42.194Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:04:42.194Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[1]/li[6] in page."}
+{"level":30,"time":"2024-06-01T00:04:42.336Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:04:42.350Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:42.350Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:43.904Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:04:43.904Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[4]/i[1] in page."}
+{"level":30,"time":"2024-06-01T00:04:43.972Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:04:43.983Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:43.984Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:45.515Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:04:45.515Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[1]/li[7] in page."}
+{"level":30,"time":"2024-06-01T00:04:45.554Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:04:45.559Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:45.559Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:47.078Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:04:47.078Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[4]/i[1] in page."}
+{"level":30,"time":"2024-06-01T00:04:47.108Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:04:47.113Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:47.113Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:48.634Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:04:48.635Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[1]/li[8] in page."}
+{"level":30,"time":"2024-06-01T00:04:48.718Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:04:48.724Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:48.724Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:50.245Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:04:50.246Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[4]/i[1] in page."}
+{"level":30,"time":"2024-06-01T00:04:50.295Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:04:50.301Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:50.301Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:51.830Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:04:51.830Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[1]/li[9] in page."}
+{"level":30,"time":"2024-06-01T00:04:51.879Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:04:51.886Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:51.886Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:53.412Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:04:53.412Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[4]/i[1] in page."}
+{"level":30,"time":"2024-06-01T00:04:53.460Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:04:53.464Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:53.465Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:54.986Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:04:54.986Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[1]/li[10] in page."}
+{"level":30,"time":"2024-06-01T00:04:55.033Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:04:55.037Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:55.037Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:56.560Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:04:56.560Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[4]/i[1] in page."}
+{"level":30,"time":"2024-06-01T00:04:56.616Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:04:56.622Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:56.623Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:58.151Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:04:58.151Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[1]/li[11] in page."}
+{"level":30,"time":"2024-06-01T00:04:58.191Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:04:58.196Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:58.196Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:59.718Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:04:59.718Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[4]/i[1] in page."}
+{"level":30,"time":"2024-06-01T00:04:59.785Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:04:59.790Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:04:59.791Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:01.323Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:05:01.323Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[5]/i[1] in page."}
+{"level":30,"time":"2024-06-01T00:05:01.417Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:05:01.432Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:01.433Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:02.967Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:05:02.967Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[1]/li[2] in page."}
+{"level":30,"time":"2024-06-01T00:05:03.094Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:05:03.109Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:03.109Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:04.675Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:05:04.675Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[5]/i[1] in page."}
+{"level":30,"time":"2024-06-01T00:05:04.789Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:05:04.795Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:04.795Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:06.331Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:05:06.332Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[1]/li[3] in page."}
+{"level":30,"time":"2024-06-01T00:05:06.451Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:05:06.458Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:06.459Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:08.010Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:05:08.010Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[5]/i[1] in page."}
+{"level":30,"time":"2024-06-01T00:05:08.124Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:05:08.138Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:08.138Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:09.699Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:05:09.699Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[1]/li[4] in page."}
+{"level":30,"time":"2024-06-01T00:05:09.813Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:05:09.826Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:09.826Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:11.406Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:05:11.406Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[5]/i[1] in page."}
+{"level":30,"time":"2024-06-01T00:05:11.521Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:05:11.538Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:11.539Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:13.095Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:05:13.096Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[1]/li[5] in page."}
+{"level":30,"time":"2024-06-01T00:05:13.198Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:05:13.207Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:13.207Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:14.741Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:05:14.742Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[5]/i[1] in page."}
+{"level":30,"time":"2024-06-01T00:05:14.880Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:05:14.897Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:14.898Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:16.442Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:05:16.442Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[1]/li[6] in page."}
+{"level":30,"time":"2024-06-01T00:05:16.513Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:05:16.519Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:16.519Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:18.055Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:05:18.055Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[5]/i[1] in page."}
+{"level":30,"time":"2024-06-01T00:05:18.156Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:05:18.166Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:18.166Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:19.705Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:05:19.705Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[1]/li[7] in page."}
+{"level":30,"time":"2024-06-01T00:05:19.828Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:05:19.833Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:19.833Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:21.356Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:05:21.356Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[5]/i[1] in page."}
+{"level":30,"time":"2024-06-01T00:05:21.387Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:05:21.393Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:21.393Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:22.912Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:05:22.912Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[1]/li[8] in page."}
+{"level":30,"time":"2024-06-01T00:05:22.952Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:05:22.956Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:22.956Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:24.478Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:05:24.478Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[5]/i[1] in page."}
+{"level":30,"time":"2024-06-01T00:05:24.550Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:05:24.557Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:24.557Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:26.085Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:05:26.085Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[1]/li[9] in page."}
+{"level":30,"time":"2024-06-01T00:05:26.138Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:05:26.141Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:26.142Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:27.660Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:05:27.660Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[5]/i[1] in page."}
+{"level":30,"time":"2024-06-01T00:05:27.705Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:05:27.709Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:27.709Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:29.229Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:05:29.230Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[1]/li[10] in page."}
+{"level":30,"time":"2024-06-01T00:05:29.278Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:05:29.284Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:29.284Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:30.823Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:05:30.823Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[5]/i[1] in page."}
+{"level":30,"time":"2024-06-01T00:05:30.971Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:05:30.987Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:30.987Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:32.550Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:05:32.550Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[1]/li[11] in page."}
+{"level":30,"time":"2024-06-01T00:05:32.688Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:05:32.695Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:32.695Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:34.233Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:05:34.234Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[5]/i[1] in page."}
+{"level":30,"time":"2024-06-01T00:05:34.373Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:05:34.390Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:34.391Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:35.955Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:05:35.956Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[6]/i[1] in page."}
+{"level":30,"time":"2024-06-01T00:05:36.081Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:05:36.097Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:36.097Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:37.665Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:05:37.665Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[1]/li[3] in page."}
+{"level":30,"time":"2024-06-01T00:05:37.801Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:05:37.815Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:37.815Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:39.346Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:05:39.346Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[6]/i[1] in page."}
+{"level":30,"time":"2024-06-01T00:05:39.461Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:05:39.477Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:39.477Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:41.045Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:05:41.045Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[1]/li[4] in page."}
+{"level":30,"time":"2024-06-01T00:05:41.131Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:05:41.143Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:41.143Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:42.680Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:05:42.681Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[6]/i[1] in page."}
+{"level":30,"time":"2024-06-01T00:05:42.802Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:05:42.818Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:42.818Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:44.358Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:05:44.358Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[1]/li[5] in page."}
+{"level":30,"time":"2024-06-01T00:05:44.408Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:05:44.413Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:44.414Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:45.936Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:05:45.937Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[6]/i[1] in page."}
+{"level":30,"time":"2024-06-01T00:05:45.970Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:05:45.975Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:45.975Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:47.495Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:05:47.495Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[1]/li[6] in page."}
+{"level":30,"time":"2024-06-01T00:05:47.531Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:05:47.536Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:47.536Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:49.066Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:05:49.066Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[6]/i[1] in page."}
+{"level":30,"time":"2024-06-01T00:05:49.184Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:05:49.201Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:49.202Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:50.756Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:05:50.756Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[1]/li[11] in page."}
+{"level":30,"time":"2024-06-01T00:05:50.882Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:05:50.895Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:50.896Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:52.433Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:05:52.433Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[6]/i[1] in page."}
+{"level":30,"time":"2024-06-01T00:05:52.494Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:05:52.500Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:52.500Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:54.034Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:05:54.034Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[7]/i in page."}
+{"level":30,"time":"2024-06-01T00:05:54.212Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:05:54.221Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:54.221Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:55.767Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:05:55.768Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[2]/li[2] in page."}
+{"level":30,"time":"2024-06-01T00:05:55.951Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:05:55.964Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:55.964Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:57.525Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:05:57.526Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[7]/i in page."}
+{"level":30,"time":"2024-06-01T00:05:57.735Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:05:57.747Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:57.748Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:59.317Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:05:59.318Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[2]/li[3] in page."}
+{"level":30,"time":"2024-06-01T00:05:59.518Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:05:59.526Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:05:59.527Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:01.060Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:06:01.060Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[7]/i in page."}
+{"level":30,"time":"2024-06-01T00:06:01.226Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:06:01.241Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:01.241Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:02.788Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:06:02.789Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[2]/li[4] in page."}
+{"level":30,"time":"2024-06-01T00:06:02.909Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:06:02.920Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:02.920Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:04.466Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:06:04.466Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[7]/i in page."}
+{"level":30,"time":"2024-06-01T00:06:04.669Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:06:04.674Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:04.675Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:06.208Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:06:06.209Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[2]/li[5] in page."}
+{"level":30,"time":"2024-06-01T00:06:06.420Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:06:06.424Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:06.424Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:07.953Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:06:07.953Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[7]/i in page."}
+{"level":30,"time":"2024-06-01T00:06:08.109Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:06:08.113Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:08.113Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:09.645Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:06:09.645Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[2]/li[6] in page."}
+{"level":30,"time":"2024-06-01T00:06:09.786Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:06:09.790Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:09.791Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:11.323Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:06:11.323Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[7]/i in page."}
+{"level":30,"time":"2024-06-01T00:06:11.540Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:06:11.556Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:11.556Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:13.112Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:06:13.112Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[2]/li[7] in page."}
+{"level":30,"time":"2024-06-01T00:06:13.300Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:06:13.308Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:13.308Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:14.839Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:06:14.840Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[7]/i in page."}
+{"level":30,"time":"2024-06-01T00:06:14.965Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:06:14.977Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:14.978Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:16.527Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:06:16.527Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[2]/li[8] in page."}
+{"level":30,"time":"2024-06-01T00:06:16.608Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:06:16.614Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:16.614Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:18.153Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:06:18.153Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[7]/i in page."}
+{"level":30,"time":"2024-06-01T00:06:18.280Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:06:18.287Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:18.287Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:19.819Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:06:19.820Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[2]/li[9] in page."}
+{"level":30,"time":"2024-06-01T00:06:19.903Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:06:19.907Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:19.907Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:21.445Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:06:21.445Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[8] in page."}
+{"level":30,"time":"2024-06-01T00:06:21.516Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:06:21.521Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:21.522Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:23.057Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:06:23.057Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[3]/li[2] in page."}
+{"level":30,"time":"2024-06-01T00:06:23.142Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:06:23.150Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:23.150Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:24.678Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:06:24.678Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[8] in page."}
+{"level":30,"time":"2024-06-01T00:06:24.770Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:06:24.778Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:24.779Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:26.316Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:06:26.316Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[3]/li[3] in page."}
+{"level":30,"time":"2024-06-01T00:06:26.383Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:06:26.389Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:26.389Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:27.913Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:06:27.914Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[8] in page."}
+{"level":30,"time":"2024-06-01T00:06:27.968Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:06:27.980Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:27.980Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:29.521Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:06:29.521Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[3]/li[5] in page."}
+{"level":30,"time":"2024-06-01T00:06:29.594Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:06:29.599Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:29.599Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:31.120Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:06:31.120Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[8] in page."}
+{"level":30,"time":"2024-06-01T00:06:31.195Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:06:31.203Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:31.203Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:32.745Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:06:32.746Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[3]/li[6] in page."}
+{"level":30,"time":"2024-06-01T00:06:32.886Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:06:32.903Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:32.904Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:34.465Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:06:34.465Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[8] in page."}
+{"level":30,"time":"2024-06-01T00:06:34.627Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:06:34.635Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:34.635Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:36.178Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:06:36.178Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[3]/li[7] in page."}
+{"level":30,"time":"2024-06-01T00:06:36.260Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:06:36.270Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:36.270Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:37.822Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:06:37.822Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[8] in page."}
+{"level":30,"time":"2024-06-01T00:06:37.957Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:06:37.964Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:37.964Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:39.486Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:06:39.486Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[3]/li[8] in page."}
+{"level":30,"time":"2024-06-01T00:06:39.569Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:06:39.578Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:39.579Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:41.137Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:06:41.137Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[8] in page."}
+{"level":30,"time":"2024-06-01T00:06:41.267Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:06:41.282Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:41.282Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:42.832Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:06:42.832Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[3]/li[9] in page."}
+{"level":30,"time":"2024-06-01T00:06:42.941Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:06:42.955Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:42.956Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:44.517Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:06:44.517Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[9]/i[1] in page."}
+{"level":30,"time":"2024-06-01T00:06:44.659Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:06:44.675Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:44.675Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:46.222Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:06:46.222Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[4]/li[2] in page."}
+{"level":30,"time":"2024-06-01T00:06:46.353Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:06:46.370Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:46.370Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:47.945Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:06:47.945Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[9]/i[1] in page."}
+{"level":30,"time":"2024-06-01T00:06:48.031Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:06:48.046Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:48.046Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:49.610Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:06:49.611Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[4]/li[3] in page."}
+{"level":30,"time":"2024-06-01T00:06:49.779Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:06:49.800Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:49.800Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:51.359Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:06:51.359Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[9]/i[1] in page."}
+{"level":30,"time":"2024-06-01T00:06:51.500Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:06:51.518Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:51.519Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:53.083Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:06:53.083Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[4]/li[4] in page."}
+{"level":30,"time":"2024-06-01T00:06:53.214Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:06:53.225Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:53.225Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:54.757Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:06:54.757Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[9]/i[1] in page."}
+{"level":30,"time":"2024-06-01T00:06:54.871Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:06:54.885Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:54.885Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:56.441Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:06:56.441Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[4]/li[5] in page."}
+{"level":30,"time":"2024-06-01T00:06:56.550Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:06:56.557Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:56.557Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:58.104Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:06:58.104Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[9]/i[1] in page."}
+{"level":30,"time":"2024-06-01T00:06:58.220Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:06:58.228Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:58.228Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:59.761Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:06:59.761Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[4]/li[6] in page."}
+{"level":30,"time":"2024-06-01T00:06:59.902Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:06:59.917Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:06:59.917Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:07:01.456Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:07:01.457Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[9]/i[1] in page."}
+{"level":30,"time":"2024-06-01T00:07:01.509Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:07:01.516Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:07:01.516Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:07:03.055Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:07:03.055Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[4]/li[7] in page."}
+{"level":30,"time":"2024-06-01T00:07:03.157Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:07:03.172Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:07:03.172Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:07:04.742Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:07:04.742Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[9]/i[1] in page."}
+{"level":30,"time":"2024-06-01T00:07:04.849Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:07:04.864Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:07:04.864Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:07:06.418Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:07:06.418Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[4]/li[8] in page."}
+{"level":30,"time":"2024-06-01T00:07:06.544Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:07:06.558Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:07:06.558Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:07:08.124Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:07:08.124Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[9]/i[1] in page."}
+{"level":30,"time":"2024-06-01T00:07:08.240Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:07:08.255Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:07:08.255Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:07:09.823Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:07:09.823Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/ul[4]/li[9] in page."}
+{"level":30,"time":"2024-06-01T00:07:09.908Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:07:09.915Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:07:09.915Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:07:11.439Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:07:11.439Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[10]/i in page."}
+{"level":30,"time":"2024-06-01T00:07:11.490Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:07:11.494Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:07:11.494Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:07:13.009Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:07:13.009Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[11]/i in page."}
+{"level":30,"time":"2024-06-01T00:07:13.028Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:07:13.030Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:07:13.031Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:07:14.549Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:07:14.549Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[12] in page."}
+{"level":30,"time":"2024-06-01T00:07:14.592Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:07:14.597Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:07:14.597Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:07:16.118Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:07:16.118Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[13]/i in page."}
+{"level":30,"time":"2024-06-01T00:07:16.176Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:07:16.179Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:07:16.179Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:07:17.721Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:07:17.721Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[14] in page."}
+{"level":30,"time":"2024-06-01T00:07:17.757Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:07:17.760Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:07:17.760Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:07:19.275Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:07:19.275Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[15] in page."}
+{"level":30,"time":"2024-06-01T00:07:19.402Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:07:19.406Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:07:19.406Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:07:20.932Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:07:20.933Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[16] in page."}
+{"level":30,"time":"2024-06-01T00:07:21.126Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:07:21.130Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:07:21.130Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:07:22.651Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:07:22.651Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[17] in page."}
+{"level":30,"time":"2024-06-01T00:07:22.741Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:07:22.744Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:07:22.745Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:07:24.260Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:07:24.260Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[18] in page."}
+{"level":30,"time":"2024-06-01T00:07:24.308Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:07:24.312Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:07:24.312Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:07:25.834Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:07:25.834Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[19] in page."}
+{"level":30,"time":"2024-06-01T00:07:25.903Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:07:25.909Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:07:25.909Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:07:27.430Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:07:27.431Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/header/button[22]/i[1] in page."}
+{"level":30,"time":"2024-06-01T00:07:27.775Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:07:27.780Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:07:27.780Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:07:29.319Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:07:29.320Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/div[4]/div[1]/div/div/div/div[3]/button in page."}
+{"level":30,"time":"2024-06-01T00:07:29.380Z","pid":26120,"hostname":"DEV1","msg":"End of node method click"}
+{"level":30,"time":"2024-06-01T00:07:29.388Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:07:29.388Z","pid":26120,"hostname":"DEV1","msg":"End of node method getConsoleLog"}
+{"level":30,"time":"2024-06-01T00:07:30.923Z","pid":26120,"hostname":"DEV1","msg":"Start of node method click"}
+{"level":30,"time":"2024-06-01T00:07:30.923Z","pid":26120,"hostname":"DEV1","msg":"Strict mode is enabled, find Locator with xpath=/html/body/div[4]/div/div/div/div/div[3]/button in page."}
+{"level":30,"time":"2024-06-01T00:07:40.943Z","pid":26120,"hostname":"DEV1","msg":"Error of node method  click"}
+================= Original suppressed error =================
+locator.click: Timeout 10000ms exceeded.
+Call log:
+  [2m- waiting for locator('xpath=/html/body/div[4]/div/div/div/div/div[3]/button')[22m
+
+    at internalClick (C:\Users\Optix\AppData\Local\Programs\Python\Python312\Lib\site-packages\Browser\wrapper\index.js:9758:19)
+    at async click (C:\Users\Optix\AppData\Local\Programs\Python\Python312\Lib\site-packages\Browser\wrapper\index.js:9739:18)
+    at async PlaywrightServer.click (C:\Users\Optix\AppData\Local\Programs\Python\Python312\Lib\site-packages\Browser\wrapper\index.js:10708:28) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2024-06-01T00:07:41.083Z","pid":26120,"hostname":"DEV1","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2024-06-01T00:07:41.086Z","pid":26120,"hostname":"DEV1","Take screenshot with options: ":{"path":"C:\\LogBrowser\\results\\browser\\screenshot\\fail-screenshot-1.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2024-06-01T00:07:41.609Z","pid":26120,"hostname":"DEV1","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2024-06-01T00:07:41.669Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-06-01T00:07:41.679Z","pid":26120,"hostname":"DEV1","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-06-01T00:07:41.686Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-06-01T00:07:41.692Z","pid":26120,"hostname":"DEV1","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-06-01T00:07:41.698Z","pid":26120,"hostname":"DEV1","msg":"Changed active context"}
+{"level":30,"time":"2024-06-01T00:07:41.698Z","pid":26120,"hostname":"DEV1","msg":"Changing current active page: page=f8f251bb-cf49-483c-b587-91b8012ed341"}
+{"level":30,"time":"2024-06-01T00:07:41.698Z","pid":26120,"hostname":"DEV1","msg":"Changed active page"}
+{"level":30,"time":"2024-06-01T00:07:41.706Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-06-01T00:07:41.711Z","pid":26120,"hostname":"DEV1","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-06-01T00:07:41.718Z","pid":26120,"hostname":"DEV1","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-06-01T00:07:41.719Z","pid":26120,"hostname":"DEV1","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-06-01T00:07:41.725Z","pid":26120,"hostname":"DEV1","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-06-01T00:07:41.727Z","pid":26120,"hostname":"DEV1","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-06-01T00:07:41.733Z","pid":26120,"hostname":"DEV1","msg":"Changing current active page: page=f8f251bb-cf49-483c-b587-91b8012ed341"}
+{"level":30,"time":"2024-06-01T00:07:41.733Z","pid":26120,"hostname":"DEV1","msg":"Changed active page"}
+{"level":30,"time":"2024-06-01T00:07:41.743Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-06-01T00:07:41.748Z","pid":26120,"hostname":"DEV1","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-06-01T00:07:41.755Z","pid":26120,"hostname":"DEV1","msg":"Changed active context"}
+{"level":30,"time":"2024-06-01T00:07:41.755Z","pid":26120,"hostname":"DEV1","msg":"Changing current active page: page=f8f251bb-cf49-483c-b587-91b8012ed341"}
+{"level":30,"time":"2024-06-01T00:07:41.755Z","pid":26120,"hostname":"DEV1","msg":"Changed active page"}
+{"level":30,"time":"2024-06-01T00:07:41.761Z","pid":26120,"hostname":"DEV1","msg":"Start of node method closeContext"}
+{"level":30,"time":"2024-06-01T00:07:41.784Z","pid":26120,"hostname":"DEV1","msg":"Removed page=245b816e-61b5-4a9c-8770-a97a0aa391fe from context=31d7afb7-6ea6-4d61-949f-8ffd7d323017 page stack"}
+{"level":30,"time":"2024-06-01T00:07:41.788Z","pid":26120,"hostname":"DEV1","msg":"End of node method closeContext"}
+{"level":30,"time":"2024-06-01T00:07:41.801Z","pid":26120,"hostname":"DEV1","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-06-01T00:07:41.801Z","pid":26120,"hostname":"DEV1","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-06-01T00:07:46.880Z","pid":26120,"hostname":"DEV1","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2024-06-01T00:07:47.018Z","pid":26120,"hostname":"DEV1","msg":"End of node method closeAllBrowsers"}
