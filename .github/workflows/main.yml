@@ -37,7 +37,7 @@ jobs:
         if: always()
         uses: actions/upload-artifact@v3 
         with:
-          name: Results-chromium/webkit
+          name: Results-chromium-webkit
           path: ./results
           if-no-files-fond: ignore
           retention-days: 2
