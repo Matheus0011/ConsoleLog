@@ -25,8 +25,8 @@ jobs:
           pip install -U robotframework
           pip install -U robotframework-browser
           pip install -U robotframework-doctestlibrary
-          sudo npm install @playwright/test
-          sudo npx playwright install-deps
+          sudo npm install -D @playwright/test@lates
+          sudo npx playwright install --with-deps
           rfbrowser init
 
       - name: Run RF Tests
