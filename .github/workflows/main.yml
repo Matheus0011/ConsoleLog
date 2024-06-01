@@ -31,5 +31,13 @@ jobs:
 
       - name: Run RF Tests
         run: |
-          robot -d ./results -v HEADLESS:true \
-          LogBrowser.robot
+          robot -d ./results LogBrowser.robot
+
+      - name: Upload Test
+        if: always()
+        uses: actions/upload-artifact@v3 
+        with:
+          name: Results-chromium
+          path: ./results
+          if-no-files-fond: ignore
+          retention-days: 2
