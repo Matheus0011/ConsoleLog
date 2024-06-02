@@ -37,7 +37,7 @@ Log console chromium
         FOR    ${message_dict}    IN    @{log1}
             ${message_str}=    Convert To String    ${message_dict}
             ${is_warning}=    Run Keyword And Return Status    Should Contain    ${message_str}    'error'    #Se conter, tera erro no codigo
-            ${is_log}=    Run Keyword And Return Status    Should Contain    ${message_str}    'log'    #Apenas mostrar no log 
+            ${is_log}=    Run Keyword And Return Status    Should Contain    ${message_str}    'Download    #Apenas mostrar no log 
             IF    ${is_log}    Log To Console    ${message_str}
             IF    ${is_warning}
                 @{warnings}=    Create List    @{warnings}    ${message_str}
@@ -66,7 +66,7 @@ Log console webkit
         FOR    ${message_dict}    IN    @{log1}
             ${message_str}=    Convert To String    ${message_dict}
             ${is_warning}=    Run Keyword And Return Status    Should Contain    ${message_str}    'error'    #Se conter, tera erro no codigo
-            ${is_log}=    Run Keyword And Return Status    Should Contain    ${message_str}    'log'    #Apenas mostrar no log 
+            ${is_log}=    Run Keyword And Return Status    Should Contain    ${message_str}    'Download    #Apenas mostrar no log 
             IF    ${is_log}    Log To Console    ${message_str}
             IF    ${is_warning}
                 @{warnings}=    Create List    @{warnings}    ${message_str}
