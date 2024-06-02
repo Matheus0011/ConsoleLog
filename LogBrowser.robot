@@ -34,6 +34,7 @@ Log console chromium
         Sleep    1
         @{log1}=    Get Console Log
         ${warnings}=    Create List
+        Log    ${log1}
         FOR    ${message_dict}    IN    @{log1}
             ${message_str}=    Convert To String    ${message_dict}
             ${is_warning}=    Run Keyword And Return Status    Should Contain    ${message_str}    'error'
@@ -61,6 +62,7 @@ Log console webkit
         Sleep    1
         @{log1}=    Get Console Log
         ${warnings}=    Create List
+        Log    ${log1}
         FOR    ${message_dict}    IN    @{log1}
             ${message_str}=    Convert To String    ${message_dict}
             ${is_warning}=    Run Keyword And Return Status    Should Contain    ${message_str}    'error'
