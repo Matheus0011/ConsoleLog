@@ -26,21 +26,24 @@ Library    collections
 Log console chromium 
     [Documentation]
     New Browser    chromium 
-    New Page    https://viewer.optixone.com.br/pacs/viewers/optixDev/?id=10001021&cdi=1&H=36947ad783829afc000fb6ed8a1a371e&SD=022c6714d0168a2bc32f78dd921a795bbd248ca7f9aa685db8159ef82d40d893191faf787d18788d1267771a1a4a130ab5b209af9b47b7e7927aa32ef2eaec2f9c05438fc3f4758cd10786889cae520498786ee6d99289c2434487b9d2cc802567b875e4036983c78ab1452eacf71eff633d3a835e1da31686d963f059f67a636a6c23de365c410c9f78c92d25b475f4&r=65618
+    New Page    https://viewer.optixone.com.br/pacs/viewers/optixDev/?id=10001021&cdi=1&H=36947ad783829afc000fb6ed8a1a371e&SD=022c6714d0168a2bc32f78dd921a795bbd248ca7f9aa685db8159ef82d40d893191faf787d18788d1267771a1a4a130ab5b209af9b47b7e7927aa32ef2eaec2f9c05438fc3f4758cd10786889cae520498786ee6d99289c2434487b9d2cc802567b875e4036983c78ab1452eacf71eff633d3a835e1da31686d963f059f67a636a6c23de365c410c9f78c92d25b475f4&r=65618&error=print
     Sleep    4
-        FOR    ${id_element}    IN    @{element_ids}
-          ${result}=    Run Keyword And Ignore Error    Click    ${id_element}
-          Run Keyword If    '${result[0]}' == 'FAIL'    Continue For Loop
-          Sleep    1
-          ${log1}=    Get Console Log
-          ${error_found}=    Set Test Variable    ${False}
-            FOR    ${message_dict}    IN    @{log1}
-              ${message_str}=    Convert To String    ${message_dict}
-              ${is_error}=    Run Keyword And Return Status    Should Contain    ${message_str}    'error'
-              Run Keyword If    ${is_error}    Set Test Variable    ${error_found}    ${True}
+    FOR    ${id_element}    IN    @{element_ids}
+        ${result}=    Run Keyword And Ignore Error    Click    ${id_element}
+        IF    '${result[0]}' == 'FAIL'    CONTINUE
+        @{log1}=    Get Console Log
+        ${warnings}=    Create List
+        FOR    ${message_dict}    IN    @{log1}
+            ${message_str}=    Convert To String    ${message_dict}
+            ${is_warning}=    Run Keyword And Return Status    Should Contain    ${message_str}    'error'
+            IF    ${is_warning}
+                 @{warnings}=    Create List    @{warnings}    ${message_dict}
             END
-          Run Keyword If    ${error_found}    Fail    Error message found in console log. ${message_dict}
         END
+        IF    ${warnings}
+            Fail    Warning message found in console log. ${warnings}
+        END
+    END
     Close Browser
 
 
@@ -49,20 +52,23 @@ Log console webkit
     [Documentation]
     New Browser    webkit
     New Context    ignoreHTTPSErrors=True
-    New Page    https://viewer.optixone.com.br/pacs/viewers/optixDev/?id=10001021&cdi=1&H=36947ad783829afc000fb6ed8a1a371e&SD=022c6714d0168a2bc32f78dd921a795bbd248ca7f9aa685db8159ef82d40d893191faf787d18788d1267771a1a4a130ab5b209af9b47b7e7927aa32ef2eaec2f9c05438fc3f4758cd10786889cae520498786ee6d99289c2434487b9d2cc802567b875e4036983c78ab1452eacf71eff633d3a835e1da31686d963f059f67a636a6c23de365c410c9f78c92d25b475f4&r=65618
+    New Page    https://viewer.optixone.com.br/pacs/viewers/optixDev/?id=10001021&cdi=1&H=36947ad783829afc000fb6ed8a1a371e&SD=022c6714d0168a2bc32f78dd921a795bbd248ca7f9aa685db8159ef82d40d893191faf787d18788d1267771a1a4a130ab5b209af9b47b7e7927aa32ef2eaec2f9c05438fc3f4758cd10786889cae520498786ee6d99289c2434487b9d2cc802567b875e4036983c78ab1452eacf71eff633d3a835e1da31686d963f059f67a636a6c23de365c410c9f78c92d25b475f4&r=65618&error=print
     Sleep    4
-        FOR    ${id_element}    IN    @{element_ids}
-          ${result}=    Run Keyword And Ignore Error    Click    ${id_element}
-          Run Keyword If    '${result[0]}' == 'FAIL'    Continue For Loop
-          Sleep    1
-          ${log1}=    Get Console Log
-          ${error_found}=    Set Test Variable    ${False}
-            FOR    ${message_dict}    IN    @{log1}
-              ${message_str}=    Convert To String    ${message_dict}
-              ${is_error}=    Run Keyword And Return Status    Should Contain    ${message_str}    'error'
-              Run Keyword If    ${is_error}    Set Test Variable    ${error_found}    ${True}
+    FOR    ${id_element}    IN    @{element_ids}
+        ${result}=    Run Keyword And Ignore Error    Click    ${id_element}
+        IF    '${result[0]}' == 'FAIL'    CONTINUE
+        @{log1}=    Get Console Log
+        ${warnings}=    Create List
+        FOR    ${message_dict}    IN    @{log1}
+            ${message_str}=    Convert To String    ${message_dict}
+            ${is_warning}=    Run Keyword And Return Status    Should Contain    ${message_str}    'error'
+            IF    ${is_warning}
+                 @{warnings}=    Create List    @{warnings}    ${message_dict}
             END
-          Run Keyword If    ${error_found}    Fail    Error message found in console log. ${message_dict}
         END
+        IF    ${warnings}
+            Fail    Warning message found in console log. ${warnings}
+        END
+    END
     Close Browser
 
