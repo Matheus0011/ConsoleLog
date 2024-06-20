@@ -26,7 +26,7 @@ Library    collections
 Log console chromium 
     [Documentation]
     New Browser    chromium 
-    New Page    https://viewer.optixone.com.br/pacs/viewers/optixDev/?id=10001021&cdi=1&H=36947ad783829afc000fb6ed8a1a371e&SD=022c6714d0168a2bc32f78dd921a795bbd248ca7f9aa685db8159ef82d40d893191faf787d18788d1267771a1a4a130ab5b209af9b47b7e7927aa32ef2eaec2f9c05438fc3f4758cd10786889cae520498786ee6d99289c2434487b9d2cc802567b875e4036983c78ab1452eacf71eff633d3a835e1da31686d963f059f67a636a6c23de365c410c9f78c92d25b475f4&r=65618
+    New Page    https://viewer.optixone.com.br/pacs/viewers/optixDev/?id=10273018&cdi=273&H=3d16f31096c88e72046110dd29fa5939&SD=51a6816307aed6d33c06c603003c5e1b9b7ba74eb22275145c888b5f8f9fb86991908e1a4e5682b0d2946ae2256adb415a6f23ea97754a90eab170524e5561f9b4c2b1ebe92459e7fa8d262f5ad7e962a04f38edff45112fd7c57e6d53ba2283e4aa00d437e9f14e631a26adabfc0c90b304c06e6043373c7294b409e964325a8ed5bbf5d02c51bb7f66fdb92a01274a&r=35372
     Sleep    4
     FOR    ${id_element}    IN    @{element_ids}
         ${result}=    Run Keyword And Ignore Error    Click    ${id_element}
@@ -55,7 +55,7 @@ Log console webkit
     [Documentation]
     New Browser    webkit
     New Context    ignoreHTTPSErrors=True
-    New Page    https://viewer.optixone.com.br/pacs/viewers/optixDev/?id=10001021&cdi=1&H=36947ad783829afc000fb6ed8a1a371e&SD=022c6714d0168a2bc32f78dd921a795bbd248ca7f9aa685db8159ef82d40d893191faf787d18788d1267771a1a4a130ab5b209af9b47b7e7927aa32ef2eaec2f9c05438fc3f4758cd10786889cae520498786ee6d99289c2434487b9d2cc802567b875e4036983c78ab1452eacf71eff633d3a835e1da31686d963f059f67a636a6c23de365c410c9f78c92d25b475f4&r=65618
+    New Page    https://viewer.optixone.com.br/pacs/viewers/optixDev/?id=10273018&cdi=273&H=3d16f31096c88e72046110dd29fa5939&SD=51a6816307aed6d33c06c603003c5e1b9b7ba74eb22275145c888b5f8f9fb86991908e1a4e5682b0d2946ae2256adb415a6f23ea97754a90eab170524e5561f9b4c2b1ebe92459e7fa8d262f5ad7e962a04f38edff45112fd7c57e6d53ba2283e4aa00d437e9f14e631a26adabfc0c90b304c06e6043373c7294b409e964325a8ed5bbf5d02c51bb7f66fdb92a01274a&r=35372
     Sleep    4
     FOR    ${id_element}    IN    @{element_ids}
         ${result}=    Run Keyword And Ignore Error    Click    ${id_element}
