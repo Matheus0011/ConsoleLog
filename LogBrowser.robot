@@ -17,7 +17,6 @@ Library    collections
 ...    xpath=/html/body/header/button[15]     xpath=/html/body/header/button[16]     xpath=/html/body/header/button[17]     xpath=/html/body/header/button[18]     xpath=/html/body/header/button[19]    xpath=/html/body/header/button[22]/i[1]    xpath=/html/body/div[4]/div[1]/div/div/div/div[3]/button    xpath=/html/body/div[4]/div/div/div/div/div[3]/button    xpath=/html/body/header/button[22]/i[1]    xpath=/html/body/header/button[23]/i    xpath=/html/body/div[4]/div/div/div/div/div[3]/button[2]    xpath=/html/body/header/div[1]/button[8]/i
 ...    xpath=/html/body/header/div[1]/button[4]
 ...    xpath=/html/body/footer/button[2]    xpath=/html/body/footer/button[3]/i    xpath=/html/body/footer/button[3]/i    xpath=/html/body/footer/button[4]    xpath=/html/body/footer/button[5]/i
-...    xpath=/html/body/div[1]/h3[2]/i
 
 
 
